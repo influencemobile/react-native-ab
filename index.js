@@ -1,5 +1,5 @@
 module.exports = {
   Experiment: require('./Experiment'),
-  Tracking: require('./Tracking'),
+  // Tracking: require('./Tracking'),
   Variant: require('./Variant')
 };
